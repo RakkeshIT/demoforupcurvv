@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-[100px] text-lime-500'>Test react project</h1>
+      <h1 className='text-[100px] text-lime-500'>Test react project.....</h1>
     </>
   )
 }
